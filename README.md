@@ -5,15 +5,6 @@
 > **Team:** Schrödinger's PINNs  
 > 🔗 **Project Resources (Presentation PPT & Deliverable PDF):** [Google Drive Folder](https://drive.google.com/drive/folders/1oWGC-IF-ohguYIJDN4WMlQSO-oLeg-1t?usp=sharing)
 
----
-
-## 👥 Team Members & Roles
-
-* **Manikanta Velamala** — Quantum & Code Architect, research, project management
-* **Kesava Naidu Bade** — CFD & PDE Simulation, design, presentation development
-* **Pilla Yogin Raj Patrudu** — mathematical modeling, writing
-
----
 
 ## 🎯 1. The Challenge
 
